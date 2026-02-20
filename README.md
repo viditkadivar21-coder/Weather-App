@@ -97,7 +97,10 @@ weather-app/
 
 ## 📸 Screenshots
 
-> Add screenshots or a demo GIF here to showcase the UI ✨
+<img width="1698" height="785" alt="Screenshot 2026-02-20 123929" src="https://github.com/user-attachments/assets/76ec1c9e-7c63-4f01-a911-a797cd2ed20b" />
+<img width="1397" height="901" alt="Screenshot 2026-02-20 124027" src="https://github.com/user-attachments/assets/7e319af3-d493-4ad7-9a9e-22e23cfb33c6" />
+<img width="1487" height="829" alt="Screenshot 2026-02-20 124059" src="https://github.com/user-attachments/assets/5683dd7f-b684-4511-be78-d6382271d168" />
+<img width="1333" height="819" alt="Screenshot 2026-02-20 124130" src="https://github.com/user-attachments/assets/8d300fdc-8c52-4881-97e2-1344c5bb0e5a" />
 
 ---
 
